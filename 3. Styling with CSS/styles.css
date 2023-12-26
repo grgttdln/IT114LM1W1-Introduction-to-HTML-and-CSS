@@ -12,7 +12,7 @@
     font-size: 38px;
     
     /* TODO 3.5: Add an underline to the text */
-    
+    text-decoration: underline wavy red;
 }
 
 .paragraph-style {

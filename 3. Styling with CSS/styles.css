@@ -23,7 +23,7 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     
     /* TODO 3.8: Increase the space between lines */
-
+    line-height: 2.5;
 }
 
 .box {

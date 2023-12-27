@@ -32,7 +32,7 @@
     height: 16rem;
 
     /* TODO 3.10: Change the background color fo the div. Can you find a way to make the background color 50% transparent? */
-    
+    background-color: rgba(36, 154, 0, 0.5);
 
     /* TODO 3.11: Play around with the margin, padding and border. Can you find a way to set the size of specific sides? */
 

@@ -30,7 +30,7 @@ body .common {
 }
 
 /* TODO 4.7: Select the element whose target attribute is set to "_blank" */
-___ {
+a[target="_blank"] {
     color: red;
 }
 

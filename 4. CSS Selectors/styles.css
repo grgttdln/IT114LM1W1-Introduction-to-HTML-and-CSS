@@ -20,7 +20,7 @@ p {
 }
 
 /* TODO 4.5: Select the element with the classes "title" or "text" in one query selector */
-___ {
+.title, .text {
     text-align: center;
 }
 

@@ -25,7 +25,7 @@ p {
 }
 
 /* TODO 4.6: Select the descendant of body with the class "common" */
-___ {
+body .common {
     border: 2px solid black;
 }
 

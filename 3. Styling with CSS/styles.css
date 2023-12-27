@@ -28,9 +28,12 @@
 
 .box {
     /* TODO 3.9: Set the width and height of the div. Try out the different units of HTML. px, em, %, in, rem  */
-    
+    width: 23rem;
+    height: 16rem;
+
     /* TODO 3.10: Change the background color fo the div. Can you find a way to make the background color 50% transparent? */
     
+
     /* TODO 3.11: Play around with the margin, padding and border. Can you find a way to set the size of specific sides? */
 
 }

@@ -10,7 +10,7 @@ p {
 }
 
 /* TODO 4.3: Select the elements with the class "text" */
-___ {
+.text {
     font-size: 20px;
 }
 
